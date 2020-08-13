@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="restart_game">משחק חדש</string>
+    <string name="_X_player">שחקן  1</string>
+    <string name="_Y_player">שחקן 2</string>
+    <string name="_turn">" תורך"</string>
+    <string name="_win">" ניצח!"</string>
+</resources>

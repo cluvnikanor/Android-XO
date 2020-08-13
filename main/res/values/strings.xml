@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">XO</string>
+    <string name="_X" translatable="false">X</string>
+    <string name="_O" translatable="false">O</string>
+    <string name="_X_player">Player 1</string>
+    <string name="_Y_player">Player 2</string>
+    <string name="_turn"> turn</string>
+    <string name="_win"> win!</string>
+    <string name="restart_game">RESTART GAME</string>
+</resources>
